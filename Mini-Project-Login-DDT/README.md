@@ -49,4 +49,4 @@
 ## 📂 Repository Deliverables
 * 📊 **[ParaBank_Login_Testing.xlsx](./ParaBank_Login_Testing.xlsx):** Full formatted Excel workbook containing all test cases, test data, and individual team tabs.
 * 📄 **[ParaBank_Login_TestCases.csv](./ParaBank_Login_TestCases.csv):** Raw CSV data file for direct preview on GitHub.
-* 🔗 **[Google Sheets Live Link](#):** *(حط لينك جوجل شيت هنا وخلّي الصلاحية Anyone with the link can view)*
+* 🔗 **[Google Sheets Live Link](#):** *(https://docs.google.com/spreadsheets/d/1cBLno-nI9B-NyCrAqrBZVejvIDtSnvDPVxZMUROfTR4/edit?usp=sharing)*
